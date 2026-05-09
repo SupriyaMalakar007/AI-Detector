@@ -45,6 +45,7 @@ TF-IDF Vectorization
 The model predicts whether the input text is:
 
 Human Written ✅
+
 AI Generated 🤖
 📊 Project Workflow
 Data Collection
