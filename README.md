@@ -24,6 +24,7 @@ Pandas
 NumPy
 Flask / Streamlit (if used)
 Tesseract OCR (for image text extraction)
+
 📂 Dataset
 
 The dataset contains:
